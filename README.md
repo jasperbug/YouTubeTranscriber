@@ -1,6 +1,6 @@
 # YouTubeTranscriber
 
-這是一個使用 [OpenAI Whisper](https://github.com/openai/whisper) 與 GPT API（預設 GPT-4）來**自動轉錄並摘要/整理 YouTube 影片逐字稿**的程式。
+這是一個使用 [OpenAI Whisper](https://github.com/openai/whisper) 與 GPT API（預設 GPT-4O）來**自動轉錄並摘要/整理 YouTube 影片逐字稿**的程式。
 
 透過此工具，你可以：
 - **下載** 指定 YouTube 影片的音訊
