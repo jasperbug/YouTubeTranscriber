@@ -72,7 +72,7 @@ python yttr.py "<YouTube URL>"
 ```
 例如：
 ```bash
-python yttr.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python yttr.py "https://www.youtube.com/watch?v=jbLKNqqWEZc&t=529s"
 ```
 
 2. **程式流程**
