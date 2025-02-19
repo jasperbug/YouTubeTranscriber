@@ -228,7 +228,7 @@ class YouTubeTranscriber:
                         "以下為範例"
                         "07:01 如何一句話激怒里亞\n"
                         "21:22 討論台V與日V的比較\n"
-                        "39:44 心智倒退與看台壓力\n"
+                        "39:44 里亞是原住民\n"
                         "51:29 當後勤遇到公主病的V\n"
                         "01:01:19 Vtuber的身體健康問題\n"
                         f"{transcript_with_timestamps}"
