@@ -68,11 +68,11 @@ OPENAI_API_KEY 請至 [OpenAI 平台](https://platform.openai.com/) 申請並取
 
 1. **執行程式**
 ```bash
-python script.py "<YouTube URL>"
+python yttr.py "<YouTube URL>"
 ```
 例如：
 ```bash
-python script.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python yttr.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 ```
 
 2. **程式流程**
