@@ -88,8 +88,8 @@
    - 呼叫 GPT-4 (或其他 GPT 模型) 進行文字優化與議題時間軸生成。
    - 所有輸出檔案會存放在 transcripts/ 資料夾下（依照影片標題建立子資料夾）。
 	
- 3.	輸出內容說明
-    -	whisper_raw_YYYYMMDD_HHMMSS.json：Whisper 的原始轉錄結果。
-    -	whisper_text_YYYYMMDD_HHMMSS.txt：Whisper 的純文字逐字稿。
-    -	gpt_transcript_YYYYMMDD_HHMMSS.txt：GPT 處理後的優化文稿。
-    -	gpt_topics_YYYYMMDD_HHMMSS.txt：GPT 依照時間戳自動生成的主題/議題清單。
+ 3.	**輸出內容說明**
+    - whisper_raw_YYYYMMDD_HHMMSS.json：Whisper 的原始轉錄結果。
+    - whisper_text_YYYYMMDD_HHMMSS.txt：Whisper 的純文字逐字稿。
+    - gpt_transcript_YYYYMMDD_HHMMSS.txt：GPT 處理後的優化文稿。
+    - gpt_topics_YYYYMMDD_HHMMSS.txt：GPT 依照時間戳自動生成的主題/議題清單。
