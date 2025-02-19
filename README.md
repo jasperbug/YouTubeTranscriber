@@ -30,8 +30,8 @@
 
 1. **下載或 Clone 專案**
 ```bash
-git clone https://github.com/jasperbug/youtube_video_transcription-analysis.git
-cd youtube_video_transcription-analysis
+git clone https://github.com/jasperbug/YouTubeTranscriber.git
+cd YouTubeTranscriber
 ```
 
 2. **建立虛擬環境（建議）**
