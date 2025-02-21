@@ -305,7 +305,7 @@ class YouTubeTranscriber:
 
 def main():
     if len(sys.argv) < 2:
-        print("使用方式: python script.py <YouTube URL>")
+        print("使用方式: python yttr.py <YouTube URL>")
         return
     
     try:
